@@ -1,7 +1,7 @@
+#include <curl/curl.h>
 #include <stdio.h>
 
-struct Heart { // Structure declaration
-};
+struct Heart {};
 
 int writeToFile() {
   FILE *f;
