@@ -4,19 +4,21 @@
 #define BUILD_FOLDER "build/"
 #define SRC_FOLDER "src/"
 
-Nob_Cmd cmd = {0};
+Nob_Cmd cmd = { 0 };
 
-int main(int argc, char **argv) {
-  NOB_GO_REBUILD_URSELF(argc, argv);
-  if (!nob_mkdir_if_not_exists(BUILD_FOLDER))
-    return 1;
+int main(int argc, char** argv) {
+	NOB_GO_REBUILD_URSELF(argc, argv);
+	if (!nob_mkdir_if_not_exists(BUILD_FOLDER))
+		return 1;
 
-  nob_cc(&cmd);
-  nob_cc_flags(&cmd);
-  nob_cc_output(&cmd, BUILD_FOLDER "ship_gen");
-  nob_cc_inputs(&cmd, SRC_FOLDER "main.c");
+	nob_cc(&cmd);
+	nob_cc_flags(&cmd);
+	nob_cc_output(&cmd, BUILD_FOLDER "ship_gen");
+	nob_cc_inputs(&cmd, SRC_FOLDER "main.c");
 
-  if (!nob_cmd_run(&cmd))
-    return 1;
-  return 0;
+	nob_cmd_append(&cmd, "-lcurl");
+
+	if (!nob_cmd_run(&cmd))
+		return 1;
+	return 0;
 }
