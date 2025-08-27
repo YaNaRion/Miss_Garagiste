@@ -1,0 +1,1500 @@
+Vaisseau 1
+Matricule du vaisseau: 11217
+Année de Fabrication: 2449
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: BSARTUU			
+Bruit fait par le moteur: 9HH9			
+===================================================================================
+La solution pour le problème de transmission est: Cobalt - Brut - À l'arc
+La solution pour le probème de combustion est: Uranium enricrandhi - Écrou - Colle chaude
+La solution pour le prblème de code de porte est: Fer - Tige - Plasma
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 2
+Matricule du vaisseau: 15676
+Année de Fabrication: 2486
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur à Bateau, Moteur à Réaction
+Le code chiffré est: MAEPHAM			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Fer Forgé - Tige - Tungstène
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Platine - Filament - Tungstène
+La solution pour le diagramme de Veine est: Fer - Écrou - Tungstène
+
+
+Vaisseau 3
+Matricule du vaisseau: 10260
+Année de Fabrication: 2585
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Réaction
+Le code chiffré est: TRISENU			
+Bruit fait par le moteur: 999*			
+===================================================================================
+La solution pour le problème de transmission est: Cobalt - Brut - À l'arc
+La solution pour le probème de combustion est: Acier - inoxydable - Lingot Chalumeau
+La solution pour le prblème de code de porte est: Uranium - Brut - Plasma
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 4
+Matricule du vaisseau: 11652
+Année de Fabrication: 2531
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Solaire, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: TLABREA			
+Bruit fait par le moteur: H!*9			
+===================================================================================
+La solution pour le problème de transmission est: Acier - Soudé - Plasma
+La solution pour le probème de combustion est: Cuivre - Brut - Plasma
+La solution pour le prblème de code de porte est: Acier - Tige - Plasma
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 5
+Matricule du vaisseau: 16180
+Année de Fabrication: 2332
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: LSBEALS			
+Bruit fait par le moteur: 999*			
+===================================================================================
+La solution pour le problème de transmission est: Silicone - Filaments - À l'arc
+La solution pour le probème de combustion est: Acier - inoxydable - Lingot Chalumeau
+La solution pour le prblème de code de porte est: Argent - Écrou - À l'arc
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 6
+Matricule du vaisseau: 9339
+Année de Fabrication: 2653
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur à Bateau, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: BUSESTA			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Fer Forgé - Lingot - Colle Chaude
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Silicone - Filament - Chalumeau
+La solution pour le diagramme de Veine est: Fer - Écrou - Tungstène
+
+
+Vaisseau 7
+Matricule du vaisseau: 29121
+Année de Fabrication: 2643
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur Solaire, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: STSABUA			
+Bruit fait par le moteur: H!*9			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Cuivre - Brut - Plasma
+La solution pour le prblème de code de porte est: Silicone - Brut - Tungstène
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 8
+Matricule du vaisseau: 22437
+Année de Fabrication: 2610
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Solaire, Moteur Solaire, Moteur à Bateau
+Le code chiffré est: BSARTUU			
+Bruit fait par le moteur: 9!*9			
+===================================================================================
+La solution pour le problème de transmission est: Cuivre - Filament - Chalumeau
+La solution pour le probème de combustion est: Aluminium - Tige - À l'arc
+La solution pour le prblème de code de porte est: Fer - Tige - Plasma
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 9
+Matricule du vaisseau: 17810
+Année de Fabrication: 2521
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau
+Le code chiffré est: ROTISAN			
+Bruit fait par le moteur: 9HH9			
+===================================================================================
+La solution pour le problème de transmission est: Or - Lingot - Colle Chaude
+La solution pour le probème de combustion est: Uranium enricrandhi - Écrou - Colle chaude
+La solution pour le prblème de code de porte est: Uranium - Tige - Colle Chaude 
+La solution pour le diagramme de Veine est: Fer - Écrou - Tungstène
+
+
+Vaisseau 10
+Matricule du vaisseau: 25026
+Année de Fabrication: 2546
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: AAMESPH			
+Bruit fait par le moteur: 999*			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Acier - inoxydable - Lingot Chalumeau
+La solution pour le prblème de code de porte est: Acier - Brut - Tungstène
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 11
+Matricule du vaisseau: 9802
+Année de Fabrication: 2609
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur Solaire, Moteur à Réaction
+Le code chiffré est: VDARESE			
+Bruit fait par le moteur: **H!			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Or - Écrou - À l'arc
+La solution pour le prblème de code de porte est: Cobalt - Écrou - Colle Chaude
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 12
+Matricule du vaisseau: 24159
+Année de Fabrication: 2373
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: FAMFAES			
+Bruit fait par le moteur: !H!*			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Fer - Tige - Plasma
+La solution pour le prblème de code de porte est: Acier forgé, Filament, Chalumeau
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 13
+Matricule du vaisseau: 24720
+Année de Fabrication: 2613
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Solaire, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: RESVESA			
+Bruit fait par le moteur: 9HH9			
+===================================================================================
+La solution pour le problème de transmission est: Cuivre - Filament - Chalumeau
+La solution pour le probème de combustion est: Uranium enricrandhi - Écrou - Colle chaude
+La solution pour le prblème de code de porte est: Aluminium - Tige - Tungstène
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 14
+Matricule du vaisseau: 16435
+Année de Fabrication: 2530
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: FREAIAF			
+Bruit fait par le moteur: H!*9			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Cuivre - Brut - Plasma
+La solution pour le prblème de code de porte est: Fer Forgé - Tige - À l'arc
+La solution pour le diagramme de Veine est: Fer - Écrou - Tungstène
+
+
+Vaisseau 15
+Matricule du vaisseau: 20610
+Année de Fabrication: 2528
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Solaire, Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: MAEPHAM			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Acier - Soudé - Plasma
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Platine - Filament - Tungstène
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 16
+Matricule du vaisseau: 26988
+Année de Fabrication: 2645
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur à Bateau, Moteur à Bateau
+Le code chiffré est: STSABUA			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Fer - Tige - Colle Chaude
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Silicone - Brut - Tungstène
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 17
+Matricule du vaisseau: 12470
+Année de Fabrication: 2564
+Fabriquant: Coco & Vaisseau
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: VSADUNE			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Cobalt - Brut - PLasma
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Cobalt - Brut - Colle Chaude
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 18
+Matricule du vaisseau: 30570
+Année de Fabrication: 2351
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Propulsion
+Le code chiffré est: BTBASAU			
+Bruit fait par le moteur: *H!9			
+===================================================================================
+La solution pour le problème de transmission est: Fer - Tige - Colle Chaude
+La solution pour le probème de combustion est: Cobalt - Filament - À l'arc
+La solution pour le prblème de code de porte est: Argent - Écrou - À l'arc
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 19
+Matricule du vaisseau: 9097
+Année de Fabrication: 2508
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Solaire, Moteur à Propulsion, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: TLABREA			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Fer Forgé - Lingot - Colle Chaude
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Acier - Tige - Plasma
+La solution pour le diagramme de Veine est: Fer - Écrou - Tungstène
+
+
+Vaisseau 20
+Matricule du vaisseau: 16059
+Année de Fabrication: 2420
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Hybride, Moteur à Réaction
+Le code chiffré est: ROTISAN			
+Bruit fait par le moteur: 999*			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Acier - inoxydable - Lingot Chalumeau
+La solution pour le prblème de code de porte est: Uranium - Tige - Colle Chaude 
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 21
+Matricule du vaisseau: 18856
+Année de Fabrication: 2511
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: FREAIAF			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Fer Forgé - Tige - À l'arc
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 22
+Matricule du vaisseau: 10598
+Année de Fabrication: 2497
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur à Bateau, Moteur à Bateau, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: PLESPLA			
+Bruit fait par le moteur: *H!9			
+===================================================================================
+La solution pour le problème de transmission est: Cobalt - Brut - À l'arc
+La solution pour le probème de combustion est: Cobalt - Filament - À l'arc
+La solution pour le prblème de code de porte est: Or - Écrou - Chalumeau
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 23
+Matricule du vaisseau: 29964
+Année de Fabrication: 2630
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Solaire, Moteur Solaire, Moteur à Propulsion
+Le code chiffré est: BRUTISA			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Cuivre - Filament - Chalumeau
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Fer - Brut - À l'arc
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 24
+Matricule du vaisseau: 13804
+Année de Fabrication: 2564
+Fabriquant: Coco & Vaisseau
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur à Bateau, Moteur à Réaction, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: SEVIERN			
+Bruit fait par le moteur: 9HH9			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Uranium enricrandhi - Écrou - Colle chaude
+La solution pour le prblème de code de porte est: Acier Inox - Lingot - Chalumeau
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 25
+Matricule du vaisseau: 23414
+Année de Fabrication: 2382
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Réaction
+Le code chiffré est: FAMFAES			
+Bruit fait par le moteur: !H!*			
+===================================================================================
+La solution pour le problème de transmission est: Acier - Soudé - Plasma
+La solution pour le probème de combustion est: Fer - Tige - Plasma
+La solution pour le prblème de code de porte est: Acier forgé, Filament, Chalumeau
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 26
+Matricule du vaisseau: 25151
+Année de Fabrication: 2577
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau
+Le code chiffré est: LSBEALS			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Fer - Tige - Colle Chaude
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Argent - Écrou - À l'arc
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 27
+Matricule du vaisseau: 16922
+Année de Fabrication: 2363
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Solaire, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: FAMESAF			
+Bruit fait par le moteur: HH!*			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Silicone - Brut - Plasma
+La solution pour le prblème de code de porte est: Cuivre - Brut - Chalumeau
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 28
+Matricule du vaisseau: 18511
+Année de Fabrication: 2361
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur Solaire, Moteur à Réaction
+Le code chiffré est: RESVESA			
+Bruit fait par le moteur: *H9!			
+===================================================================================
+La solution pour le problème de transmission est: Cobalt - Brut - À l'arc
+La solution pour le probème de combustion est: Fer forgé - Lingot - Colle chaude
+La solution pour le prblème de code de porte est: Aluminium - Tige - Tungstène
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 29
+Matricule du vaisseau: 26163
+Année de Fabrication: 2465
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: TLABREA			
+Bruit fait par le moteur: *H9!			
+===================================================================================
+La solution pour le problème de transmission est: Cuivre - Filament - Chalumeau
+La solution pour le probème de combustion est: Fer forgé - Lingot - Colle chaude
+La solution pour le prblème de code de porte est: Acier - Tige - Plasma
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 30
+Matricule du vaisseau: 21214
+Année de Fabrication: 2351
+Fabriquant: Coco & Vaisseau
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: FAMESAF			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Silicone - Filaments - À l'arc
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Cuivre - Brut - Chalumeau
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 31
+Matricule du vaisseau: 17524
+Année de Fabrication: 2386
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur à Bateau, Moteur à Réaction, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: BVEERDA			
+Bruit fait par le moteur: H!*9			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Cuivre - Brut - Plasma
+La solution pour le prblème de code de porte est: Platine - Lingot - Plasma
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 32
+Matricule du vaisseau: 21019
+Année de Fabrication: 2678
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: FAMFAES			
+Bruit fait par le moteur: 9!*9			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Aluminium - Tige - À l'arc
+La solution pour le prblème de code de porte est: Acier forgé, Filament, Chalumeau
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 33
+Matricule du vaisseau: 21103
+Année de Fabrication: 2632
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: BSARTUU			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Fer - Tige - Plasma
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 34
+Matricule du vaisseau: 19184
+Année de Fabrication: 2654
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: FAMFAES			
+Bruit fait par le moteur: 9!*9			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Aluminium - Tige - À l'arc
+La solution pour le prblème de code de porte est: Acier forgé, Filament, Chalumeau
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 35
+Matricule du vaisseau: 30626
+Année de Fabrication: 2577
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Solaire, Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: BUSESTA			
+Bruit fait par le moteur: 999*			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Acier - inoxydable - Lingot Chalumeau
+La solution pour le prblème de code de porte est: Silicone - Filament - Chalumeau
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 36
+Matricule du vaisseau: 15245
+Année de Fabrication: 2305
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur à Propulsion
+Le code chiffré est: FREAIAF			
+Bruit fait par le moteur: *H9!			
+===================================================================================
+La solution pour le problème de transmission est: Acier - Soudé - Plasma
+La solution pour le probème de combustion est: Fer forgé - Lingot - Colle chaude
+La solution pour le prblème de code de porte est: Fer Forgé - Tige - À l'arc
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 37
+Matricule du vaisseau: 10081
+Année de Fabrication: 2627
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Solaire, Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: TRISENU			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Uranium - Brut - Plasma
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 38
+Matricule du vaisseau: 22587
+Année de Fabrication: 2555
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Solaire, Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: SEVIERN			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Acier Inox - Tige - Plasma
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Acier Inox - Lingot - Chalumeau
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 39
+Matricule du vaisseau: 26916
+Année de Fabrication: 2549
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Solaire, Moteur Solaire, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: FAMFAES			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Fer Forgé - Lingot - Colle Chaude
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Acier forgé, Filament, Chalumeau
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 40
+Matricule du vaisseau: 30110
+Année de Fabrication: 2407
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: TLABREA			
+Bruit fait par le moteur: *H!9			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Cobalt - Filament - À l'arc
+La solution pour le prblème de code de porte est: Acier - Tige - Plasma
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 41
+Matricule du vaisseau: 22615
+Année de Fabrication: 2644
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: LELESAP			
+Bruit fait par le moteur: 9!*9			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Aluminium - Tige - À l'arc
+La solution pour le prblème de code de porte est: Acier Inox - Lingot - Plasma
+La solution pour le diagramme de Veine est: Fer - Écrou - Tungstène
+
+
+Vaisseau 42
+Matricule du vaisseau: 22763
+Année de Fabrication: 2520
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: BWZIIZW			
+Bruit fait par le moteur: 999*			
+===================================================================================
+La solution pour le problème de transmission est: Cuivre - Écrous - Tungstène
+La solution pour le probème de combustion est: Acier - inoxydable - Lingot Chalumeau
+La solution pour le prblème de code de porte est: Aluminium - Lingot - Colle Chaude
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 43
+Matricule du vaisseau: 17003
+Année de Fabrication: 2306
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: LELESAP			
+Bruit fait par le moteur: HH!*			
+===================================================================================
+La solution pour le problème de transmission est: Silicone - Filaments - À l'arc
+La solution pour le probème de combustion est: Silicone - Brut - Plasma
+La solution pour le prblème de code de porte est: Acier Inox - Lingot - Plasma
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 44
+Matricule du vaisseau: 14381
+Année de Fabrication: 2580
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Hybride, Moteur à Bateau, Moteur à Bateau
+Le code chiffré est: TRISENU			
+Bruit fait par le moteur: 9HH9			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Uranium enricrandhi - Écrou - Colle chaude
+La solution pour le prblème de code de porte est: Uranium - Brut - Plasma
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 45
+Matricule du vaisseau: 19586
+Année de Fabrication: 2616
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: VDARESE			
+Bruit fait par le moteur: 9!*9			
+===================================================================================
+La solution pour le problème de transmission est: Uranium Enrichie - Tige - Tungstène
+La solution pour le probème de combustion est: Aluminium - Tige - À l'arc
+La solution pour le prblème de code de porte est: Cobalt - Écrou - Colle Chaude
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 46
+Matricule du vaisseau: 14995
+Année de Fabrication: 2348
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur à Propulsion
+Le code chiffré est: BUSESTA			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Fer - Tige - Colle Chaude
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Silicone - Filament - Chalumeau
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 47
+Matricule du vaisseau: 17782
+Année de Fabrication: 2593
+Fabriquant: Coco & Vaisseau
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur à Propulsion, Moteur à Propulsion, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: TSIEBAT			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Cobalt - Brut - PLasma
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Cuivre - Tige - À l'arc
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 48
+Matricule du vaisseau: 14433
+Année de Fabrication: 2444
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur Solaire
+Le code chiffré est: PLESPLA			
+Bruit fait par le moteur: 9!*9			
+===================================================================================
+La solution pour le problème de transmission est: Fer - Tige - Colle Chaude
+La solution pour le probème de combustion est: Aluminium - Tige - À l'arc
+La solution pour le prblème de code de porte est: Or - Écrou - Chalumeau
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 49
+Matricule du vaisseau: 10853
+Année de Fabrication: 2419
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: TRISENU			
+Bruit fait par le moteur: !H!*			
+===================================================================================
+La solution pour le problème de transmission est: Acier - Soudé - Plasma
+La solution pour le probème de combustion est: Fer - Tige - Plasma
+La solution pour le prblème de code de porte est: Uranium - Brut - Plasma
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 50
+Matricule du vaisseau: 16276
+Année de Fabrication: 2516
+Fabriquant: Coco & Vaisseau
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: STSABUA			
+Bruit fait par le moteur: !H!*			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Fer - Tige - Plasma
+La solution pour le prblème de code de porte est: Silicone - Brut - Tungstène
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 51
+Matricule du vaisseau: 24515
+Année de Fabrication: 2641
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: ROTISAN			
+Bruit fait par le moteur: 9!*9			
+===================================================================================
+La solution pour le problème de transmission est: Fer Forgé - Lingot - Colle Chaude
+La solution pour le probème de combustion est: Aluminium - Tige - À l'arc
+La solution pour le prblème de code de porte est: Uranium - Tige - Colle Chaude 
+La solution pour le diagramme de Veine est: Fer - Écrou - Tungstène
+
+
+Vaisseau 52
+Matricule du vaisseau: 21296
+Année de Fabrication: 2638
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Hybride, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: BRUTISA			
+Bruit fait par le moteur: 9HH9			
+===================================================================================
+La solution pour le problème de transmission est: Fer Forgé - Lingot - Colle Chaude
+La solution pour le probème de combustion est: Uranium enricrandhi - Écrou - Colle chaude
+La solution pour le prblème de code de porte est: Fer - Brut - À l'arc
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 53
+Matricule du vaisseau: 18754
+Année de Fabrication: 2489
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Solaire, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: ROTISAN			
+Bruit fait par le moteur: HH!*			
+===================================================================================
+La solution pour le problème de transmission est: Fer Forgé - Lingot - Colle Chaude
+La solution pour le probème de combustion est: Silicone - Brut - Plasma
+La solution pour le prblème de code de porte est: Uranium - Tige - Colle Chaude 
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 54
+Matricule du vaisseau: 25260
+Année de Fabrication: 2673
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur à Bateau, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: RESVESA			
+Bruit fait par le moteur: 9HH9			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Uranium enricrandhi - Écrou - Colle chaude
+La solution pour le prblème de code de porte est: Aluminium - Tige - Tungstène
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 55
+Matricule du vaisseau: 10368
+Année de Fabrication: 2487
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: RESVESA			
+Bruit fait par le moteur: !H!*			
+===================================================================================
+La solution pour le problème de transmission est: Acier - Soudé - Plasma
+La solution pour le probème de combustion est: Fer - Tige - Plasma
+La solution pour le prblème de code de porte est: Aluminium - Tige - Tungstène
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 56
+Matricule du vaisseau: 23117
+Année de Fabrication: 2375
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Réaction
+Le code chiffré est: TLABREA			
+Bruit fait par le moteur: HH!*			
+===================================================================================
+La solution pour le problème de transmission est: Or - Lingot - Colle Chaude
+La solution pour le probème de combustion est: Silicone - Brut - Plasma
+La solution pour le prblème de code de porte est: Acier - Tige - Plasma
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 57
+Matricule du vaisseau: 15217
+Année de Fabrication: 2467
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: BUSESTA			
+Bruit fait par le moteur: **H!			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Or - Écrou - À l'arc
+La solution pour le prblème de code de porte est: Silicone - Filament - Chalumeau
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 58
+Matricule du vaisseau: 27245
+Année de Fabrication: 2426
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: BVEERDA			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Cuivre - Filament - Chalumeau
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Platine - Lingot - Plasma
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 59
+Matricule du vaisseau: 12707
+Année de Fabrication: 2304
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: SEVIERN			
+Bruit fait par le moteur: HH!*			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Silicone - Brut - Plasma
+La solution pour le prblème de code de porte est: Acier Inox - Lingot - Chalumeau
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 60
+Matricule du vaisseau: 11500
+Année de Fabrication: 2339
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: VSADUNE			
+Bruit fait par le moteur: 9!*9			
+===================================================================================
+La solution pour le problème de transmission est: Cuivre - Filament - Chalumeau
+La solution pour le probème de combustion est: Aluminium - Tige - À l'arc
+La solution pour le prblème de code de porte est: Cobalt - Brut - Colle Chaude
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 61
+Matricule du vaisseau: 21511
+Année de Fabrication: 2500
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: BRUTISA			
+Bruit fait par le moteur: HH!*			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Silicone - Brut - Plasma
+La solution pour le prblème de code de porte est: Fer - Brut - À l'arc
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 62
+Matricule du vaisseau: 11995
+Année de Fabrication: 2323
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur à Propulsion
+Le code chiffré est: LELESAP			
+Bruit fait par le moteur: *H9!			
+===================================================================================
+La solution pour le problème de transmission est: Fer - Tige - Colle Chaude
+La solution pour le probème de combustion est: Fer forgé - Lingot - Colle chaude
+La solution pour le prblème de code de porte est: Acier Inox - Lingot - Plasma
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 63
+Matricule du vaisseau: 20789
+Année de Fabrication: 2590
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Réaction
+Le code chiffré est: TSIEBAT			
+Bruit fait par le moteur: *H9!			
+===================================================================================
+La solution pour le problème de transmission est: Fer Forgé - Tige - Tungstène
+La solution pour le probème de combustion est: Fer forgé - Lingot - Colle chaude
+La solution pour le prblème de code de porte est: Cuivre - Tige - À l'arc
+La solution pour le diagramme de Veine est: Fer - Écrou - Tungstène
+
+
+Vaisseau 64
+Matricule du vaisseau: 11835
+Année de Fabrication: 2645
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur à Bateau, Moteur à Bateau, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: VSADUNE			
+Bruit fait par le moteur: *H!9			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Cobalt - Filament - À l'arc
+La solution pour le prblème de code de porte est: Cobalt - Brut - Colle Chaude
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 65
+Matricule du vaisseau: 12206
+Année de Fabrication: 2389
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: BSARTUU			
+Bruit fait par le moteur: H!*9			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Cuivre - Brut - Plasma
+La solution pour le prblème de code de porte est: Fer - Tige - Plasma
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 66
+Matricule du vaisseau: 13955
+Année de Fabrication: 2497
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: FAMESAF			
+Bruit fait par le moteur: !H!*			
+===================================================================================
+La solution pour le problème de transmission est: Acier Inox - Tige - Plasma
+La solution pour le probème de combustion est: Fer - Tige - Plasma
+La solution pour le prblème de code de porte est: Cuivre - Brut - Chalumeau
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 67
+Matricule du vaisseau: 19419
+Année de Fabrication: 2323
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur Solaire, Moteur à Réaction
+Le code chiffré est: FAMESAF			
+Bruit fait par le moteur: !H!*			
+===================================================================================
+La solution pour le problème de transmission est: Silicone - Filaments - À l'arc
+La solution pour le probème de combustion est: Fer - Tige - Plasma
+La solution pour le prblème de code de porte est: Cuivre - Brut - Chalumeau
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 68
+Matricule du vaisseau: 17733
+Année de Fabrication: 2349
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: BSARTUU			
+Bruit fait par le moteur: HH!*			
+===================================================================================
+La solution pour le problème de transmission est: Uranium Enrichie - Tige - Tungstène
+La solution pour le probème de combustion est: Silicone - Brut - Plasma
+La solution pour le prblème de code de porte est: Fer - Tige - Plasma
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 69
+Matricule du vaisseau: 21334
+Année de Fabrication: 2346
+Fabriquant: Coco & Vaisseau
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: BRUTISA			
+Bruit fait par le moteur: *H9!			
+===================================================================================
+La solution pour le problème de transmission est: Cobalt - Brut - PLasma
+La solution pour le probème de combustion est: Fer forgé - Lingot - Colle chaude
+La solution pour le prblème de code de porte est: Fer - Brut - À l'arc
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 70
+Matricule du vaisseau: 14323
+Année de Fabrication: 2373
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Hybride, Moteur à Bateau, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: RESVESA			
+Bruit fait par le moteur: **H!			
+===================================================================================
+La solution pour le problème de transmission est: Cuivre - Écrous - Tungstène
+La solution pour le probème de combustion est: Or - Écrou - À l'arc
+La solution pour le prblème de code de porte est: Aluminium - Tige - Tungstène
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 71
+Matricule du vaisseau: 19139
+Année de Fabrication: 2415
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: PLESPLA			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Uranium Enrichie - Tige - Tungstène
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Or - Écrou - Chalumeau
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 72
+Matricule du vaisseau: 30620
+Année de Fabrication: 2311
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Solaire, Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: FREAIAF			
+Bruit fait par le moteur: 999*			
+===================================================================================
+La solution pour le problème de transmission est: Silicone - Filaments - À l'arc
+La solution pour le probème de combustion est: Acier - inoxydable - Lingot Chalumeau
+La solution pour le prblème de code de porte est: Fer Forgé - Tige - À l'arc
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 73
+Matricule du vaisseau: 21793
+Année de Fabrication: 2577
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: LESBELP			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Or - Tige - À l'arc
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 74
+Matricule du vaisseau: 16827
+Année de Fabrication: 2301
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur Solaire, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: BUSESTA			
+Bruit fait par le moteur: *H9!			
+===================================================================================
+La solution pour le problème de transmission est: Acier Inox - Tige - Plasma
+La solution pour le probème de combustion est: Fer forgé - Lingot - Colle chaude
+La solution pour le prblème de code de porte est: Silicone - Filament - Chalumeau
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 75
+Matricule du vaisseau: 23801
+Année de Fabrication: 2434
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: FAMESAF			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Silicone - Filaments - À l'arc
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Cuivre - Brut - Chalumeau
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 76
+Matricule du vaisseau: 16162
+Année de Fabrication: 2374
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Bateau
+Le code chiffré est: BSARTUU			
+Bruit fait par le moteur: 9HH9			
+===================================================================================
+La solution pour le problème de transmission est: Acier - Soudé - Plasma
+La solution pour le probème de combustion est: Uranium enricrandhi - Écrou - Colle chaude
+La solution pour le prblème de code de porte est: Fer - Tige - Plasma
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 77
+Matricule du vaisseau: 28201
+Année de Fabrication: 2300
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Hybride, Moteur à Réaction
+Le code chiffré est: AAMESPH			
+Bruit fait par le moteur: *H!9			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Cobalt - Filament - À l'arc
+La solution pour le prblème de code de porte est: Acier - Brut - Tungstène
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 78
+Matricule du vaisseau: 17149
+Année de Fabrication: 2604
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: LSBEALS			
+Bruit fait par le moteur: **H!			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Or - Écrou - À l'arc
+La solution pour le prblème de code de porte est: Argent - Écrou - À l'arc
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 79
+Matricule du vaisseau: 30813
+Année de Fabrication: 2586
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur à Bateau, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: RESVESA			
+Bruit fait par le moteur: 999*			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Acier - inoxydable - Lingot Chalumeau
+La solution pour le prblème de code de porte est: Aluminium - Tige - Tungstène
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 80
+Matricule du vaisseau: 9425
+Année de Fabrication: 2390
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur à Bateau, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: MAEPHAM			
+Bruit fait par le moteur: **H!			
+===================================================================================
+La solution pour le problème de transmission est: Silicone - Filaments - À l'arc
+La solution pour le probème de combustion est: Or - Écrou - À l'arc
+La solution pour le prblème de code de porte est: Platine - Filament - Tungstène
+La solution pour le diagramme de Veine est: Cuivre - Tige - Plasma
+
+
+Vaisseau 81
+Matricule du vaisseau: 24002
+Année de Fabrication: 2314
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Solaire, Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: MAEPHAM			
+Bruit fait par le moteur: *H!9			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Cobalt - Filament - À l'arc
+La solution pour le prblème de code de porte est: Platine - Filament - Tungstène
+La solution pour le diagramme de Veine est: Acier inoxydable - Écrou - À l'arc
+
+
+Vaisseau 82
+Matricule du vaisseau: 30198
+Année de Fabrication: 2638
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Bateau, Moteur à Réaction
+Le code chiffré est: RESVESA			
+Bruit fait par le moteur: **H!			
+===================================================================================
+La solution pour le problème de transmission est: Cuivre - Écrous - Tungstène
+La solution pour le probème de combustion est: Or - Écrou - À l'arc
+La solution pour le prblème de code de porte est: Aluminium - Tige - Tungstène
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 83
+Matricule du vaisseau: 18714
+Année de Fabrication: 2599
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Hybride, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: LSBEALS			
+Bruit fait par le moteur: 9!*9			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Aluminium - Tige - À l'arc
+La solution pour le prblème de code de porte est: Argent - Écrou - À l'arc
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 84
+Matricule du vaisseau: 28219
+Année de Fabrication: 2313
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: VSADUNE			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Acier Inox - Tige - Plasma
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Cobalt - Brut - Colle Chaude
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 85
+Matricule du vaisseau: 13322
+Année de Fabrication: 2504
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction
+Le code chiffré est: STSABUA			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Silicone - Brut - Tungstène
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 86
+Matricule du vaisseau: 14816
+Année de Fabrication: 2507
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire
+Le code chiffré est: PLESPLA			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Fer - Tige - Colle Chaude
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Or - Écrou - Chalumeau
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 87
+Matricule du vaisseau: 9558
+Année de Fabrication: 2338
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur à Bateau, Moteur à Bateau, Moteur à Réaction
+Le code chiffré est: BSARTUU			
+Bruit fait par le moteur: *H9!			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Fer forgé - Lingot - Colle chaude
+La solution pour le prblème de code de porte est: Fer - Tige - Plasma
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 88
+Matricule du vaisseau: 11807
+Année de Fabrication: 2400
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: BWZIIZW			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Acier Inox - Tige - Plasma
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Aluminium - Lingot - Colle Chaude
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 89
+Matricule du vaisseau: 26451
+Année de Fabrication: 2566
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur à Réaction
+Le code chiffré est: RESVESA			
+Bruit fait par le moteur: *H!9			
+===================================================================================
+La solution pour le problème de transmission est: Fer Forgé - Tige - Tungstène
+La solution pour le probème de combustion est: Cobalt - Filament - À l'arc
+La solution pour le prblème de code de porte est: Aluminium - Tige - Tungstène
+La solution pour le diagramme de Veine est: Silicone - Brut - À l'arc
+
+
+Vaisseau 90
+Matricule du vaisseau: 22818
+Année de Fabrication: 2673
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 3
+Les types de moteurs sont: Moteur Hybride, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: VDARESE			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Fer - Tige - Colle Chaude
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Cobalt - Écrou - Colle Chaude
+La solution pour le diagramme de Veine est: Fer - Écrou - Tungstène
+
+
+Vaisseau 91
+Matricule du vaisseau: 23239
+Année de Fabrication: 2638
+Fabriquant: NOTRECORP
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur à Bateau, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: TLABREA			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Aluminium - Filaments - Chalumeau
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Acier - Tige - Plasma
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 92
+Matricule du vaisseau: 19625
+Année de Fabrication: 2464
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur à Propulsion
+Le code chiffré est: LESBELP			
+Bruit fait par le moteur: 999*			
+===================================================================================
+La solution pour le problème de transmission est: Acier - Soudé - Plasma
+La solution pour le probème de combustion est: Acier - inoxydable - Lingot Chalumeau
+La solution pour le prblème de code de porte est: Or - Tige - À l'arc
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 93
+Matricule du vaisseau: 16438
+Année de Fabrication: 2319
+Fabriquant: Correct Craft Vaisseaux
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Solaire, Moteur à Propulsion, Moteur à Propulsion, Moteur à Propulsion, Moteur à Réaction, Moteur à Réaction
+Le code chiffré est: LESBELP			
+Bruit fait par le moteur: H!*9			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Cuivre - Brut - Plasma
+La solution pour le prblème de code de porte est: Or - Tige - À l'arc
+La solution pour le diagramme de Veine est: Acier inoxydable - Lingot - À l'arc
+
+
+Vaisseau 94
+Matricule du vaisseau: 17370
+Année de Fabrication: 2455
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: ROTISAN			
+Bruit fait par le moteur: !!**			
+===================================================================================
+La solution pour le problème de transmission est: Cobalt - Brut - À l'arc
+La solution pour le probème de combustion est: Acier - Filament - Chalumeau
+La solution pour le prblème de code de porte est: Uranium - Tige - Colle Chaude 
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 95
+Matricule du vaisseau: 15592
+Année de Fabrication: 2636
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: ROTISAN			
+Bruit fait par le moteur: HH!*			
+===================================================================================
+La solution pour le problème de transmission est: Acier Inox - Tige - Plasma
+La solution pour le probème de combustion est: Silicone - Brut - Plasma
+La solution pour le prblème de code de porte est: Uranium - Tige - Colle Chaude 
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 96
+Matricule du vaisseau: 28596
+Année de Fabrication: 2545
+Fabriquant: Spitfire Corporation
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion
+Le code chiffré est: SEVIERN			
+Bruit fait par le moteur: !H!*			
+===================================================================================
+La solution pour le problème de transmission est: Acier - Soudé - Plasma
+La solution pour le probème de combustion est: Fer - Tige - Plasma
+La solution pour le prblème de code de porte est: Acier Inox - Lingot - Chalumeau
+La solution pour le diagramme de Veine est: Aluminium, Lingot, Plasma
+
+
+Vaisseau 97
+Matricule du vaisseau: 20715
+Année de Fabrication: 2480
+Fabriquant: ASTRACORP
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Hybride, Moteur à Bateau, Moteur à Bateau, Moteur à Réaction
+Le code chiffré est: BTBASAU			
+Bruit fait par le moteur: !H!*			
+===================================================================================
+La solution pour le problème de transmission est: Or - Filaments - À l'arc
+La solution pour le probème de combustion est: Fer - Tige - Plasma
+La solution pour le prblème de code de porte est: Argent - Écrou - À l'arc
+La solution pour le diagramme de Veine est: Cuivre - Tige - Colle Chaude
+
+
+Vaisseau 98
+Matricule du vaisseau: 11113
+Année de Fabrication: 2518
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 5
+Les types de moteurs sont: Moteur Solaire, Moteur à Bateau, Moteur à Bateau, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: STSABUA			
+Bruit fait par le moteur: **H!			
+===================================================================================
+La solution pour le problème de transmission est: Argent - Brute - Chalumeau
+La solution pour le probème de combustion est: Or - Écrou - À l'arc
+La solution pour le prblème de code de porte est: Silicone - Brut - Tungstène
+La solution pour le diagramme de Veine est: Fer - Écrou - Tungstène
+
+
+Vaisseau 99
+Matricule du vaisseau: 30618
+Année de Fabrication: 2380
+Fabriquant: VaissPress
+Le nombre de moteur dans le vaisseau est de: 6
+Les types de moteurs sont: Moteur Hybride, Moteur Hybride, Moteur Hybride, Moteur Hybride, Moteur Solaire, Moteur à Bateau
+Le code chiffré est: LELESAP			
+Bruit fait par le moteur: !H!*			
+===================================================================================
+La solution pour le problème de transmission est: Acier Inox - Tige - Plasma
+La solution pour le probème de combustion est: Fer - Tige - Plasma
+La solution pour le prblème de code de porte est: Acier Inox - Lingot - Plasma
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
+Vaisseau 100
+Matricule du vaisseau: 26776
+Année de Fabrication: 2398
+Fabriquant: Anonymarque
+Le nombre de moteur dans le vaisseau est de: 4
+Les types de moteurs sont: Moteur Hybride, Moteur Solaire, Moteur à Propulsion, Moteur à Propulsion
+Le code chiffré est: AAMESPH			
+Bruit fait par le moteur: 9!9*			
+===================================================================================
+La solution pour le problème de transmission est: Acier - Soudé - Plasma
+La solution pour le probème de combustion est: Platine - Tige - Tungstène
+La solution pour le prblème de code de porte est: Acier - Brut - Tungstène
+La solution pour le diagramme de Veine est: Platine - Filament - Chalumeau
+
+
