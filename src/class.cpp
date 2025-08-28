@@ -159,6 +159,15 @@ void Heart::setCarrosserie() {
       {0x03, "Cobalt - Brut - Plasma"}};
 }
 
+bool Heart::com1option1() {
+  for (string com : person.com) {
+    if (com == INSTAGRAM) {
+      return true;
+    }
+  }
+  return false;
+}
+
 bool Heart::com4option2() {
   for (string com : person.com) {
     if (com == SLACK || com == TEAM || com == CODEMORSE) {
@@ -179,14 +188,10 @@ void Heart::setReponseTrans() {
   }
 
   if (person.com.size() == 3) {
-    for (string com : person.com) {
-      if (com == INSTAGRAM) {
-        reponseTransmission = "Cuivre - Filament - Chalumeau";
-        break;
-      }
-    }
-    if (person.HairLenght == Long || person.HairColor == ORANGE ||
-        person.HairColor == ROUGE || person.HairColor == NOIR) {
+    if (com1option1()) {
+      reponseTransmission = "Fer - Tige - Colle Chaude";
+    } else if (person.HairLenght == Long || person.HairColor == ORANGE ||
+               person.HairColor == ROUGE || person.HairColor == NOIR) {
     } else if (person.moyenClasse > person.moyenSansClasse) {
       reponseTransmission = "Or - Lingot - Colle Chaude";
     } else {

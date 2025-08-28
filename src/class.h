@@ -33,5 +33,6 @@ public:
   void setCarrosserie();
   void setReponseTrans();
   bool com4option2();
+  bool com1option1();
   friend std::ostream &operator<<(std::ostream &os, const Heart &heart);
 };
