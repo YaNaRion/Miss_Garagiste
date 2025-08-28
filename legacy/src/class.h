@@ -2,34 +2,37 @@
 #include <string>
 #include <vector>
 
-class Moteur {
+class Person {
 public:
-  int nombreMoteur;
-  std::vector<std::string> typeMoteur;
-  Moteur();
+  std::string HairColor;
+  std::string HairLenght;
+  std::string EyeColor;
+  std::string Eating;
+  std::vector<std::string> com;
+
+  int moyenClasse;
+  int moyenSansClasse;
+
+  Person();
+  void setCommunication();
+  bool checkIfComAlreadyUsed(std::string incom);
 };
 
-class Vaisseau {
+class Heart {
 public:
-  int matricule;
-  int anneeFabrication;
-  Moteur moteur;
-  std::string fabriquant;
+  Person person;
   std::pair<std::string, std::string> bruit;
-  bool estApprove = false;
   std::pair<std::string, std::string> code;
   std::string reponseTransmission;
   uint8_t carrosserieHexa = 0x00;
   std::string carrosseriePair;
 
-  Vaisseau();
-  void setFabriquant();
+  Heart();
   void setBruit();
   void setCode();
-  void setMatricule();
-  void setAnneeFab();
-  void setMoteur();
+  void setPerson();
   void setCarrosserie();
   void setReponseTrans();
-  friend std::ostream &operator<<(std::ostream &os, const Vaisseau &vaisseau);
+  bool com4option2();
+  friend std::ostream &operator<<(std::ostream &os, const Heart &heart);
 };

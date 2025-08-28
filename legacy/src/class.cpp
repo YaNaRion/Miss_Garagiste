@@ -1,5 +1,4 @@
 #include "class.h"
-#include <algorithm>
 #include <cstdlib>
 #include <iostream>
 #include <map>
@@ -13,42 +12,86 @@ using std::pair;
 using std::string;
 using std::vector;
 
-Moteur::Moteur() {
-  vector<string> ListMoteur = {"Moteur Hybride", "Moteur à Réaction",
-                               "Moteur à Propulsion", "Moteur à Bateau",
-                               "Moteur Solaire"};
-  nombreMoteur = 3 + rand() % 4;
-  for (int i = 0; i < nombreMoteur; i++) {
-    typeMoteur.push_back(ListMoteur[rand() % 5]);
+const string Vegan = "Végan";
+const string Vege = "Végétarien";
+const string PescaPescaTerrein = "Pescapescatarien";
+const string Omnivor = "Omnivor";
+const string Carnivor = "Carnivor";
+
+const string ROUGE = "Rouge";
+const string BLEU = "Bleu";
+const string VERT = "Vert";
+const string JAUNE = "Jaune";
+const string ORANGE = "Orange";
+const string VIOLET = "Violet";
+const string ROSE = "Rose";
+const string MARRON = "Marron";
+const string NOIR = "Noir";
+const string BLANC = "Blanc";
+
+const string Long = "Long";
+const string Court = "Court";
+const string Raser = "Raser";
+const string Mullet = "Mullet";
+
+const string FACEBOOK = "FACEBOOK";
+const string INSTAGRAM = "INSTAGRAM";
+const string FAXE = "FAXE";
+const string LETTRE = "Lettre";
+const string MSN = "MSN";
+const string SNAPCHAT = "SnapChat";
+const string CODEMORSE = "Code Morse";
+const string DISCORD = "Discord";
+const string SLACK = "SLACK";
+const string TEAM = "TEAM";
+const string COURRIEL = "Courriel";
+
+vector<string> ListHair = {Long, Court, Raser, Mullet};
+vector<string> ListEating = {Vegan, Vege, PescaPescaTerrein, Omnivor, Carnivor};
+vector<string> ListColor = {ROUGE,  BLEU, VERT,   JAUNE, ORANGE,
+                            VIOLET, ROSE, MARRON, NOIR,  BLANC};
+vector<string> ListComm = {FACEBOOK, INSTAGRAM, FAXE,      LETTRE,
+                           MSN,      SNAPCHAT,  CODEMORSE, DISCORD,
+                           SLACK,    TEAM,      COURRIEL};
+
+bool Person::checkIfComAlreadyUsed(string incom) {
+  bool doesExist = false;
+  for (string comm1 : com) {
+    if (incom == comm1) {
+      doesExist = true;
+    }
   }
-  sort(typeMoteur.begin(), typeMoteur.end());
+  return doesExist;
 }
 
-void Vaisseau::setFabriquant() {
-  vector<string> ListFabriquant = {"ASTRACORP",
-                                   "NOTRECORP",
-                                   "Coco & Vaisseau",
-                                   "Spitfire Corporation",
-                                   "VaissPress",
-                                   "Anonymarque",
-                                   "Correct Craft Vaisseaux",
-                                   "Notre Vaisseau Maison"};
-  fabriquant = ListFabriquant[rand() % 7];
-  if (fabriquant == "ASTRACORP" || fabriquant == "VaissPress" ||
-      fabriquant == "Anonymarque" || fabriquant == "Coco & Vaisseau" ||
-      fabriquant == "Notre Vaisseau Maison") {
-    carrosserieHexa += 0x08;
-    estApprove = true;
+void Person::setCommunication() {
+  int i = 0;
+  int maxCom = 3 + rand() % 3;
+  while (i < maxCom) {
+    string comm = ListComm[rand() % 10];
+    if (!checkIfComAlreadyUsed(comm)) {
+      com.push_back(comm);
+      i++;
+    }
   }
 }
 
-void Vaisseau::setBruit() {
+Person::Person() {
+  HairColor = ListColor[rand() % 9];
+  EyeColor = ListColor[rand() % 9];
+  Eating = ListEating[rand() % 4];
+  HairLenght = ListHair[rand() % 3];
+  com = vector<string>{};
+  setCommunication();
+}
+
+void Heart::setBruit() {
   vector<pair<string, string>> ListePairBruit = {
       make_pair("**H!", "Or - Écrou - À l'arc"),
       make_pair("9!9*", "Platine - Tige - Tungstène"),
       make_pair("HH!*", "Silicone - Brut - Plasma"),
       make_pair("!!**", "Acier - Filament - Chalumeau"),
-      make_pair("9HH9", "Uranium enricrandhi - Écrou - Colle chaude"),
+      make_pair("9HH9", "Uranium enrichi - Écrou - Colle chaude"),
       make_pair("H!*9", "Cuivre - Brut - Plasma"),
       make_pair("*H!9", "Cobalt - Filament - À l'arc"),
       make_pair("9!*9", "Aluminium - Tige - À l'arc"),
@@ -59,13 +102,7 @@ void Vaisseau::setBruit() {
   bruit = ListePairBruit[rand() % 11];
 }
 
-void Vaisseau::setAnneeFab() { anneeFabrication = 2300 + rand() % 380; }
-
-void Vaisseau::setMatricule() { matricule = 9000 + rand() % 22000; }
-
-void Vaisseau::setMoteur() { moteur = Moteur(); }
-
-void Vaisseau::setCode() {
+void Heart::setCode() {
   vector<pair<string, string>> ListePairCode = {
       make_pair("BRUTISA", "Fer - Brut - À l'arc"),
       make_pair("SEVIERN", "Acier Inox - Lingot - Chalumeau"),
@@ -100,7 +137,7 @@ void Vaisseau::setCode() {
 }
 
 // A changer
-void Vaisseau::setCarrosserie() {
+void Heart::setCarrosserie() {
   map<uint8_t, string> ListePairCode{
       {0x00, "Silicone - Brut - À l'arc"},
       {0x08, "Fer - Écrou - Tungstène"},
@@ -120,76 +157,70 @@ void Vaisseau::setCarrosserie() {
       {0x09, "Fer forgé - Écrou - Colle Chaude"},
       {0x01, "Aluminium - Filament - Tungstène"}, // Changer
       {0x03, "Cobalt - Brut - Plasma"}};
-  for (string i : moteur.typeMoteur) {
-    if (i == "Moteur de Bateau") {
-      carrosserieHexa += 0x01;
-      break;
-    }
-  }
-  if (moteur.nombreMoteur % 2 == 0) {
-    carrosserieHexa += 0x04;
-  }
-  if (anneeFabrication < 2467 ||
-      (anneeFabrication >= 2567 && anneeFabrication <= 2588)) {
-    carrosserieHexa += 0x02;
-  }
-  carrosseriePair = ListePairCode[carrosserieHexa];
 }
 
-// A changer
-void Vaisseau::setReponseTrans() {
-  int nReaction = 0;
-  int nPropulsion = 0;
-  int nBateau = 0;
-  int nSolaire = 0;
-  int nHybride = 0;
-  for (int i = 0; moteur.nombreMoteur > i; i++) {
-    if (moteur.typeMoteur[i] == "Moteur à Réaction")
-      nReaction++;
-    else if (moteur.typeMoteur[i] == "Moteur à Propulsion")
-      nPropulsion++;
-    else if (moteur.typeMoteur[i] == "Moteur à Bateau")
-      nBateau++;
-    else if (moteur.typeMoteur[i] == "Moteur Solaire") {
-      nSolaire++;
-    } else if (moteur.typeMoteur[i] == "Moteur Hybride") {
-      nHybride++;
+bool Heart::com4option2() {
+  for (string com : person.com) {
+    if (com == SLACK || com == TEAM || com == CODEMORSE) {
+      return true;
     }
   }
-  if (moteur.nombreMoteur == 3) {
-    if (nHybride == 0) {
-      reponseTransmission = "Cuivre - Filament - Chalumeau";
-    } else if (fabriquant == "ASTRACORP") {
+  return false;
+}
+
+void Heart::setReponseTrans() {
+  for (string com : person.com) {
+    if (com == LETTRE || com == FAXE || com == MSN || com == SNAPCHAT ||
+        com == SLACK || com == TEAM) {
+      person.moyenClasse++;
+    } else {
+      person.moyenSansClasse++;
+    }
+  }
+
+  if (person.com.size() == 3) {
+    for (string com : person.com) {
+      if (com == INSTAGRAM) {
+        reponseTransmission = "Cuivre - Filament - Chalumeau";
+        break;
+      }
+    }
+    if (person.HairLenght == Long || person.HairColor == ORANGE ||
+        person.HairColor == ROUGE || person.HairColor == NOIR) {
+    } else if (person.moyenClasse > person.moyenSansClasse) {
       reponseTransmission = "Or - Lingot - Colle Chaude";
-    } else if (nReaction > nPropulsion) {
-      reponseTransmission = "Fer Forgé - Tige - Tungstène";
     } else {
       reponseTransmission = "Fer - Tige - Colle Chaude";
     }
-  } else if (moteur.nombreMoteur == 4) {
-    if (estApprove && anneeFabrication % 2 == 1) {
+  } else if (person.com.size() == 4) {
+    if (person.Eating == Vege) {
       reponseTransmission = "Cobalt - Brut - À l'arc";
-    } else if (nSolaire % 2 == 1) {
+    } else if (com4option2()) {
       reponseTransmission = "Acier - Soudé - Plasma";
     } else {
       reponseTransmission = "Aluminium - Filaments - Chalumeau";
     }
-  } else if (moteur.nombreMoteur == 5) {
-    if (nBateau - 1 == nReaction) {
+  } else if (person.com.size() == 5) {
+    if ((person.HairColor == BLEU || person.HairColor == ROSE ||
+         person.HairColor == BLANC) &&
+        person.Eating == PescaPescaTerrein) {
       reponseTransmission = "Uranium Enrichie - Tige - Tungstène";
-    } else if (nReaction == 0) {
+    } else if (person.HairLenght == Mullet) {
       reponseTransmission = "Argent - Brute - Chalumeau";
-    } else if (anneeFabrication + 200 <= 2656) {
+    } else if (person.Eating == Carnivor) {
       reponseTransmission = "Silicone - Filaments - À l'arc";
     } else {
       reponseTransmission = "Fer Forgé - Lingot - Colle Chaude";
     }
-  } else if (moteur.nombreMoteur == 6) {
-    if ((nPropulsion == 0) && (estApprove == false)) {
+  } else if (person.com.size() == 6) {
+    if (person.moyenSansClasse == person.moyenClasse) {
       reponseTransmission = "Cuivre - Écrous - Tungstène";
-    } else if ((fabriquant == "Coco & Vaisseau") && (nHybride > 0)) {
+    } else if (person.Eating == Omnivor) {
       reponseTransmission = "Cobalt - Brut - PLasma";
-    } else if ((fabriquant == "Anonymarque") || (fabriquant == "VaissPress")) {
+    } else if ((person.HairColor == BLANC && person.Eating == Vegan) ||
+               ((person.HairColor == ORANGE || person.HairColor == VERT) &&
+                person.Eating == PescaPescaTerrein) ||
+               (person.HairLenght == Long && person.Eating == Omnivor)) {
       reponseTransmission = "Acier Inox - Tige - Plasma";
     } else {
       reponseTransmission = "Or - Filaments - À l'arc";
@@ -197,49 +228,50 @@ void Vaisseau::setReponseTrans() {
   }
 }
 
-Vaisseau::Vaisseau() {
-  setAnneeFab();
-  setMatricule();
-  setFabriquant();
+Heart::Heart() {
   setBruit();
-  setMoteur();
+  setPerson();
   setCode();
   setCarrosserie();
   setReponseTrans();
+  person = Person();
 }
 
-std::ostream &operator<<(std::ostream &os, const Vaisseau &vaisseau) {
-  os << "Matricule du vaisseau: " << vaisseau.matricule << '\n';
-  os << "Année de Fabrication: " << vaisseau.anneeFabrication << '\n';
-  os << "Fabriquant: " << vaisseau.fabriquant << '\n';
-  os << "Le nombre de moteur dans le vaisseau est de: "
-     << vaisseau.moteur.nombreMoteur << '\n';
-  os << "Les types de moteurs sont: ";
-
-  for (int i = 0; i < vaisseau.moteur.nombreMoteur; i++) {
-    if (i == vaisseau.moteur.nombreMoteur - 1) {
-      os << vaisseau.moteur.typeMoteur[i];
-    } else {
-      os << vaisseau.moteur.typeMoteur[i] << ", ";
-    }
+std::ostream &operator<<(std::ostream &os, const Heart &heart) {
+  os << "Les types de moyen de communication sont: ";
+  for (string com : heart.person.com) {
+    os << com << ", ";
   }
+  os << std::endl;
+
+  os << "Couleur de cheveux: " << heart.person.HairColor << std::endl;
+  os << "Longeur de cheveux: " << heart.person.HairLenght << std::endl;
+  os << "Couleur yeux: " << heart.person.EyeColor << std::endl;
+  os << "Regime: " << heart.person.Eating << std::endl;
 
   os << '\n';
-  os << "Le code chiffré est: " << vaisseau.code.first << '\t' << '\t' << '\t'
+  os << "Le code chiffré est: " << heart.code.first << '\t' << '\t' << '\t'
      << '\n';
-  os << "Bruit fait par le moteur: " << vaisseau.bruit.first << '\t' << '\t'
+  os << "Bruit fait par le moteur: " << heart.bruit.first << '\t' << '\t'
      << '\t' << '\n';
   os << "======================================================================"
         "============="
      << '\n';
-  os << "La solution pour le problème de transmission est: "
-     << vaisseau.reponseTransmission << '\n';
-  os << "La solution pour le probème de combustion est: "
-     << vaisseau.bruit.second << '\n';
-  os << "La solution pour le prblème de code de porte est: "
-     << vaisseau.code.second << '\n';
-  os << "La solution pour le diagramme de Veine est: "
-     << vaisseau.carrosseriePair << '\n';
 
+  // TODO
+  os << "La solution pour le problème de transmission est: "
+     << heart.reponseTransmission << '\n';
+
+  // Modifier
+  os << "La solution pour le probème de pression est: " << heart.bruit.second
+     << '\n';
+
+  // Modifier
+  os << "La solution pour le problème de code de porte est: "
+     << heart.code.second << '\n';
+
+  // TODO
+  os << "La solution pour le diagramme de Veine est: " << heart.carrosseriePair
+     << '\n';
   return os;
 }
