@@ -1,4 +1,5 @@
 #include "class.h"
+#include <cstdint>
 #include <cstdlib>
 #include <iostream>
 #include <map>
@@ -54,6 +55,21 @@ vector<string> ListComm = {FACEBOOK, INSTAGRAM, FAXE,      LETTRE,
                            MSN,      SNAPCHAT,  CODEMORSE, DISCORD,
                            SLACK,    TEAM,      COURRIEL};
 
+bool Person::checkIsNaturalColor() {
+  return HairColor == MARRON || HairColor == NOIR || HairColor == BLANC;
+}
+
+bool Person::checkIfUseFaxe() {
+  bool useFaxe = false;
+  for (string comm : com) {
+    if (comm == FAXE) {
+      useFaxe = true;
+      break;
+    }
+  }
+  return useFaxe;
+}
+
 bool Person::checkIfComAlreadyUsed(string incom) {
   bool doesExist = false;
   for (string comm1 : com) {
@@ -102,7 +118,7 @@ void Heart::setBruit() {
   bruit = ListePairBruit[rand() % 11];
 }
 
-void Heart::setCode() {
+void Heart::setProbTelevision() {
   vector<pair<string, string>> ListePairCode = {
       make_pair("BRUTISA", "Fer - Brut - À l'arc"),
       make_pair("SEVIERN", "Acier Inox - Lingot - Chalumeau"),
@@ -137,26 +153,47 @@ void Heart::setCode() {
 }
 
 // A changer
-void Heart::setCarrosserie() {
-  map<uint8_t, string> ListePairCode{
-      {0x00, "Silicone - Brut - À l'arc"},
-      {0x08, "Fer - Écrou - Tungstène"},
-      {0x0C, "Cuivre - Tige - Colle Chaude"},
-      {0x04, "Aluminium, Lingot, Plasma"},
-      {0x0A, "Acier inoxydable - Écrou - À l'arc"},
+void Heart::setProbCompa() {
+  uint8_t score = 0x00;
+  map<uint8_t, string> MapScoreResulat{
+      {0x00, "Silicone - Brut - À l'arc"},          // A
+      {0x08, "Fer - Écrou - Tungstène"},            // B
+      {0x0C, "Cuivre - Tige - Colle Chaude"},       // C
+      {0x04, "Aluminium, Lingot, Plasma"},          // D
+      {0x0A, "Acier inoxydable - Écrou - À l'arc"}, // E
 
-      {0x0E, "Platine - Filament - Chalumeau"},
-      {0x0F, "Argent - Brut - Chalumeau "},
-      {0x0D, "Uranium enrichi - Tige - Tungstène"},
-      {0x05, "Or - Écrou - Colle Chaude"},
-      {0x02, "Cuivre - Tige - Plasma"},
+      {0x0E, "Platine - Filament - Chalumeau"},     // F
+      {0x0F, "Argent - Brut - Chalumeau "},         // G
+      {0x0D, "Uranium enrichi - Tige - Tungstène"}, // H
+      {0x05, "Or - Écrou - Colle Chaude"},          // I
+      {0x02, "Cuivre - Tige - Plasma"},             // J
 
-      {0x06, "Acier inoxydable - Lingot - À l'arc"},
-      {0x07, "Fer - Filament - Plasma"},
-      {0x0B, "Or - Écrou - À l'arc"},
-      {0x09, "Fer forgé - Écrou - Colle Chaude"},
-      {0x01, "Aluminium - Filament - Tungstène"}, // Changer
-      {0x03, "Cobalt - Brut - Plasma"}};
+      {0x06, "Acier inoxydable - Lingot - À l'arc"}, // K
+      {0x07, "Fer - Filament - Plasma"},             // L
+      {0x0B, "Or - Écrou - À l'arc"},                // M
+      {0x09, "Fer forgé - Écrou - Colle Chaude"},    // N
+      {0x01, "Aluminium - Filament - Tungstène"},    // O
+      {0x03, "Cobalt - Brut - Plasma"}};             // P
+
+  if (person.moyenClasse >= 2) {
+    score += 0x01;
+  }
+
+  if (person.HairLenght == Long && !person.checkIsNaturalColor()) {
+    score += 0x02;
+  }
+
+  if (person.EyeColor == BLEU || person.EyeColor == VERT ||
+      person.EyeColor == ROUGE) {
+    score += 0x04;
+  }
+
+  if (person.Eating == PescaPescaTerrein || person.Eating == Carnivor ||
+      person.checkIfUseFaxe()) {
+    score += 0x08;
+  }
+
+  diagramVenn = MapScoreResulat[score];
 }
 
 bool Heart::com1option1() {
@@ -177,7 +214,7 @@ bool Heart::com4option2() {
   return false;
 }
 
-void Heart::setReponseTrans() {
+void Heart::setProbCommu() {
   for (string com : person.com) {
     if (com == LETTRE || com == FAXE || com == MSN || com == SNAPCHAT ||
         com == SLACK || com == TEAM) {
@@ -189,56 +226,59 @@ void Heart::setReponseTrans() {
 
   if (person.com.size() == 3) {
     if (com1option1()) {
-      reponseTransmission = "Fer - Tige - Colle Chaude";
+      reponseCommu = "Fer - Tige - Colle Chaude";
     } else if (person.HairLenght == Long || person.HairColor == ORANGE ||
                person.HairColor == ROUGE || person.HairColor == NOIR) {
+      reponseCommu = "Or - Lingot - Colle Chaude";
     } else if (person.moyenClasse > person.moyenSansClasse) {
-      reponseTransmission = "Or - Lingot - Colle Chaude";
+      reponseCommu = "Fer Forgé - Tige - Tungstène";
     } else {
-      reponseTransmission = "Fer - Tige - Colle Chaude";
+      reponseCommu = "Fer - Tige - Colle Chaude";
     }
   } else if (person.com.size() == 4) {
     if (person.Eating == Vege) {
-      reponseTransmission = "Cobalt - Brut - À l'arc";
+      reponseCommu = "Cobalt - Brut - À l'arc";
     } else if (com4option2()) {
-      reponseTransmission = "Acier - Soudé - Plasma";
+      reponseCommu = "Acier - Soudé - Plasma";
     } else {
-      reponseTransmission = "Aluminium - Filaments - Chalumeau";
+      reponseCommu = "Aluminium - Filaments - Chalumeau";
     }
   } else if (person.com.size() == 5) {
     if ((person.HairColor == BLEU || person.HairColor == ROSE ||
          person.HairColor == BLANC) &&
         person.Eating == PescaPescaTerrein) {
-      reponseTransmission = "Uranium Enrichie - Tige - Tungstène";
+      reponseCommu = "Uranium Enrichie - Tige - Tungstène";
     } else if (person.HairLenght == Mullet) {
-      reponseTransmission = "Argent - Brute - Chalumeau";
+      reponseCommu = "Argent - Brute - Chalumeau";
     } else if (person.Eating == Carnivor) {
-      reponseTransmission = "Silicone - Filaments - À l'arc";
+      reponseCommu = "Silicone - Filaments - À l'arc";
     } else {
-      reponseTransmission = "Fer Forgé - Lingot - Colle Chaude";
+      reponseCommu = "Fer Forgé - Lingot - Colle Chaude";
     }
+
   } else if (person.com.size() == 6) {
+
     if (person.moyenSansClasse == person.moyenClasse) {
-      reponseTransmission = "Cuivre - Écrous - Tungstène";
+      reponseCommu = "Cuivre - Écrous - Tungstène";
     } else if (person.Eating == Omnivor) {
-      reponseTransmission = "Cobalt - Brut - PLasma";
+      reponseCommu = "Cobalt - Brut - PLasma";
     } else if ((person.HairColor == BLANC && person.Eating == Vegan) ||
                ((person.HairColor == ORANGE || person.HairColor == VERT) &&
                 person.Eating == PescaPescaTerrein) ||
                (person.HairLenght == Long && person.Eating == Omnivor)) {
-      reponseTransmission = "Acier Inox - Tige - Plasma";
+      reponseCommu = "Acier Inox - Tige - Plasma";
     } else {
-      reponseTransmission = "Or - Filaments - À l'arc";
+      reponseCommu = "Or - Filaments - À l'arc";
     }
   }
 }
 
 Heart::Heart() {
-  setBruit();
-  setCode();
-  setCarrosserie();
-  setReponseTrans();
   person = Person();
+  setBruit();
+  setProbTelevision();
+  setProbCompa();
+  setProbCommu();
 }
 
 std::ostream &operator<<(std::ostream &os, const Heart &heart) {
@@ -263,8 +303,8 @@ std::ostream &operator<<(std::ostream &os, const Heart &heart) {
      << '\n';
 
   // TODO
-  os << "La solution pour le problème de transmission est: "
-     << heart.reponseTransmission << '\n';
+  os << "La solution pour le problème de Communication est: "
+     << heart.reponseCommu << '\n';
 
   // Modifier
   os << "La solution pour le probème de pression est: " << heart.bruit.second
@@ -275,7 +315,7 @@ std::ostream &operator<<(std::ostream &os, const Heart &heart) {
      << heart.code.second << '\n';
 
   // TODO
-  os << "La solution pour le diagramme de Veine est: " << heart.carrosseriePair
+  os << "La solution pour le diagramme de Veine est: " << heart.diagramVenn
      << '\n';
   return os;
 }

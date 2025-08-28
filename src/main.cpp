@@ -3,13 +3,9 @@
 #include <ctime>
 #include <fstream>
 #include <iostream>
-#include <vector>
 
 int main() {
   int nombredeVaisseau = 100;
-  std::cout << "TEST" << std::endl;
-
-  std::vector<Heart> listeVaisseau;
   std::fstream fichier("couple.txt", std::ios::out);
 
   if (!fichier.is_open()) {
